@@ -8,13 +8,21 @@
 
   Sample Input
   3 5
+  
   2 4
+  
   -1 -2
+  
   -1 3
+  
   Sample Output
+  
   243
+  
   16
+  
   java.lang.Exception: n and p should be non-negative
+  
   java.lang.Exception: n and p should be non-negative
 
 
